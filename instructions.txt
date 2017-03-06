@@ -1,0 +1,16 @@
+The objective of CHAIN REACTION is to take control of the
+board by eliminating your opponent's elements.
+
+It is a two player game. Players take it in turns to place
+their elements in a cell. If an element is placed in a cell
+with critical mass, the cell explodes into the surrounding
+cells adding an extra element and claiming the cell for the
+player. A player may only place the elements in a blank cell
+or a cell that contains elements of his/her own colour. As
+soon as a player looses all the elements the opponent wins.
+
+CRITICAL MASS FOR THE CELLS :
+	At the corners 	:  1
+	At the edges  	:  2
+	Inner cells     :  3
+
