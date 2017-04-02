@@ -28,3 +28,5 @@ The place() function places an element at position (r, c), passed as arguments t
 	The flag array is also altered simultaneously depending on which player places the element.
 	
 The checkwon() function checks if the grid contains elements of both the players. If it doesn't, then the player whose elements are present in the grid wins, else the game continues.
+
+[<img src="https://github.com/arnab1896/chain-reaction/blob/master/menu.png">]
